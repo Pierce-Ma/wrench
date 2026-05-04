@@ -8,9 +8,9 @@ xfg:
       system: test-system
       register:
         # redis host
-        host: 192.168.1.109
+        host: 127.0.0.1
         # redis port
-        port: 16379
+        port: 6379
 
 # 日志
 logging:
